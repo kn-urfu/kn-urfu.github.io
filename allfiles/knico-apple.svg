@@ -14,15 +14,15 @@
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
      id="namedview3"
-     pagecolor="#ffffff"
+     pagecolor="#000000"
      bordercolor="#000000"
-     borderopacity="0.25"
+     borderopacity="0"
      inkscape:showpageshadow="2"
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:zoom="3.2368421"
-     inkscape:cx="75.845528"
+     inkscape:cx="75.845529"
      inkscape:cy="76"
      inkscape:window-width="1280"
      inkscape:window-height="730"
@@ -30,12 +30,6 @@
      inkscape:window-y="-6"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg3" />
-  <path
-     fill-rule="evenodd"
-     clip-rule="evenodd"
-     d="M59.2724 33.25L90.7644 33.2504C117.06 33.2504 133 50.2517 133 72.1226C133 91.4479 119.227 102.763 98.9378 111.089C80.7548 118.55 80.6346 118.597 75.4191 120.618L75.4167 120.619L74.0449 121.151V103.815C71.3645 104.9 68.0153 106.1 64.1858 107.145C62.6677 107.56 61.0442 107.89 59.2724 108.139C51.6183 109.221 43.4142 107.708 35.4474 102.671C23.9279 94.3098 19 82.8471 19 72.3658C19 49.713 36.5813 33.25 59.2724 33.25ZM74.0596 96.2317C79.971 93.793 89.4245 89.8947 95.1672 87.5449C96.8387 86.8618 98.3621 86.07 99.7377 85.3314C101.337 84.4716 102.736 83.5701 103.937 82.6125C107.623 79.6765 109.445 76.2161 109.445 71.8585C109.445 67.1968 106.761 57.2584 94.4195 57.2584H57.5111C50.4236 57.2584 47.7142 59.6087 45.1402 63.3075C40.1097 70.538 42.7575 78.954 48.9506 83.3126C50.8639 84.6578 52.9226 85.4145 55.0335 85.6354C60.1687 86.1726 68.2727 83.3872 74.0596 81.0108V96.2317Z"
-     fill="white"
-     id="path1" />
   <defs
      id="defs3">
     <linearGradient
